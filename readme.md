@@ -1,3 +1,5 @@
+[![npm](https://img.shields.io/npm/dt/express.svg?style=flat-square)](https://www.npmjs.com/package/childnode-remove)
+
 # ChildNode.remove()
 
 ## Installation
